@@ -1,4 +1,4 @@
-# js13k
+# Toshiki Archer
 - Norman tries to defend himself from the local villagers
 - Make magic feel like magic
   - Glyphs, cooldowns, screenshake
